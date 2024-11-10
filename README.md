@@ -1,8 +1,36 @@
-# React + Vite
+# Zysk Tech Landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React application for a [Landing page](https://zysk-tech.netlify.app/). It was created with ReactJs and mui(Material UI) for the UI.
 
-Currently, two official plugins are available:
+### Features
+- Responsive Design: Mobile-friendly UI built with Material-UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologies
+
+- **React**: UI library
+- **Material-UI (MUI)**: Styling and layout
+
+
+## Setup Instructions
+
+
+### Installation Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Phanindrababu5868/zysk-Tech-landing-page.git
+   cd zysk
+   ```
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+
+3. Start the application
+  ```bash
+  npm run dev
+  ```
+4. Open your browser
+
+Go to `http://localhost:5173` to view the app.
